@@ -1,0 +1,49 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: darkslategray;
+}
+
+h1 {
+  margin: 30px;
+  font-family: cursive;
+  text-shadow: 5px 0 darkslategrey;
+  font-size: 8rem;
+  color: limegreen;
+}
+
+p {
+  font-size: 2rem;
+  color: limegreen;
+  font-family: cursive;
+}
+
+img {
+  width: 60%;
+}
+
+footer {
+  margin-top: 5%;
+  color: linen;
+  text-align: center;
+  font-family: cursive;
+}
+
+a {
+  font-family: cursive;
+  color: greenyellow;
+  font-style: 45px;
+  text-decoration: none;
+  background-color: blue;
+  margin-top: 5px;
+  border-radius: 20px;
+}
